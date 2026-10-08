@@ -15,3 +15,6 @@ __pycache__/
 # Throwaway helper scripts
 check_memory.py
 test_pipeline.py
+
+# Local virtual environment
+.venv/
