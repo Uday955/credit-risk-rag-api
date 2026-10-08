@@ -1,0 +1,12 @@
+Debt-to-Income (DTI) Ratio Policy
+
+The debt-to-income ratio measures an applicant's total monthly debt payments as 
+a percentage of their gross monthly income. A high DTI ratio indicates that a 
+significant portion of an applicant's income is already committed to existing 
+debt obligations, reducing their capacity to take on and repay additional debt.
+
+Applicants with a DTI ratio above 35-40% are considered higher risk, as they have 
+less financial flexibility to absorb unexpected expenses or income disruptions 
+while maintaining loan payments. A lower DTI ratio, generally below 20%, is 
+associated with a significantly lower likelihood of default and is viewed 
+favorably in the underwriting process.

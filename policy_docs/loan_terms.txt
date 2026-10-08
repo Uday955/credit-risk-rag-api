@@ -1,0 +1,12 @@
+Loan Term and Amount Policy
+
+Loan term length (e.g., 36 months vs. 60 months) directly affects risk assessment. 
+Longer loan terms carry greater uncertainty over the repayment period, including 
+exposure to potential changes in the applicant's income, employment, or financial 
+circumstances over a longer timeframe. As a result, longer-term loans are 
+generally associated with higher risk profiles compared to shorter-term loans of 
+similar size.
+
+Loan amount relative to income and existing obligations is also assessed. Loans 
+that represent a larger financial commitment relative to the applicant's income 
+and existing debt are evaluated more conservatively.

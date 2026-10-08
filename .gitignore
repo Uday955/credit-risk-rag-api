@@ -1,0 +1,17 @@
+# Secrets - never upload
+.env
+
+# Virtual environment (the host rebuilds this from requirements.txt)
+credit_risk_env/
+
+# Large data files
+data/
+
+# Rebuilt automatically, no need to upload
+chroma_db/
+__pycache__/
+.ipynb_checkpoints/
+
+# Throwaway helper scripts
+check_memory.py
+test_pipeline.py

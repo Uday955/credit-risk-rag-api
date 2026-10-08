@@ -1,0 +1,15 @@
+Credit Grade and Sub-Grade Policy
+
+Loan applicants are assigned a credit grade (A through G) and a more granular 
+sub-grade (e.g., A1, A2, B1) based on an internal risk assessment model. Grade A 
+represents the lowest-risk applicants, while Grade G represents the highest-risk 
+applicants. This grade is calculated using a combination of factors including 
+credit score, credit history length, existing debt obligations, and repayment 
+history.
+
+Applicants with lower grades (D, E, F, G) are statistically more likely to default 
+on their loan obligations based on historical repayment data. A lower credit 
+grade is one of the most significant factors in determining loan approval, 
+interest rate, and overall risk assessment. Applicants seeking to improve their 
+credit grade for future applications should focus on timely bill payments, 
+reducing existing debt, and maintaining a longer history of responsible credit use.

@@ -1,0 +1,11 @@
+fastapi==0.142.2
+uvicorn==0.54.0
+pandas==3.0.5
+numpy==2.5.3
+scikit-learn==1.9.1
+xgboost==3.4.1
+shap==0.52.0
+joblib==1.6.0
+chromadb==1.5.9
+groq==1.7.0
+python-dotenv==1.2.4

@@ -1,0 +1,14 @@
+Credit History and FICO Score Policy
+
+An applicant's FICO score and length of credit history are key indicators of 
+creditworthiness. FICO scores below 670 are generally classified as "fair" or 
+"poor" credit, and are associated with a higher historical likelihood of default. 
+Scores above 740 are considered "very good" to "exceptional" and are associated 
+with lower risk.
+
+Credit history length also matters: applicants with a longer history of credit 
+use (typically 10+ years) have a more extensive track record for assessing 
+repayment reliability, compared to applicants with limited credit history. 
+Recent credit-seeking behavior, such as multiple new accounts opened in a short 
+period, can also indicate increased financial stress and is factored into risk 
+assessment.
